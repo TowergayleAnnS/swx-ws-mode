@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.idea
+#lib
+#dist
+
+# Log files
+*-debug.log
+*-debug.log
+*-error.log
